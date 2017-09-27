@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceiverDemo</string>
+    <string name="send_local_broadcast">Send local broadcast</string>
+</resources>
